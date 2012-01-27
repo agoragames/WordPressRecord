@@ -1,4 +1,5 @@
 require 'open-uri'
+require 'active_model'
 
 class WordPressRecord
 
